@@ -1,7 +1,7 @@
   # Perim Anão
 
 > “Pequeno no tamanho, gigante no stack.”  
-> — algum anão que compila em Java
+> — algum anão que não compila em Java
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,7 @@ public class EuMesmo {
     public static void main(String[] args) {
         System.out.println("Oi, eu sou o Perim e tenho sérios problemas com Java");
         while(true){
-            System.out.println("Refatorando código que eu mesmo escrevi errado ontem.");
+            System.out.println("Refazendo código que eu mesmo escrevi errado ontem.");
         }
     }
 }
